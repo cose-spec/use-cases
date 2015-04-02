@@ -1,5 +1,6 @@
 This page is meant to collect use case information for the COSE spec.
-+Please raise issues or fork and submit pull requests, and/or send mail to [cose@ietf.org](mailto:cose@ietf.org?Subject=Use%20Cases).
+To raise an issue about use cases, please send mail to [cose@ietf.org](mailto:cose@ietf.org?Subject=Use%20cases)
+Alternately, you can fork and submit pull requests, but these will need to be reflected on them mailing list anyway.
 
 # Use case: draft-selander-ace-object-security (Göran Selander)
 
